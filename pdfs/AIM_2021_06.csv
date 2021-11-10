@@ -1,0 +1,432 @@
+Selected,ticker,exchange,categorizationField,avgVolume,Title,Long_Title,Subtitle,ISIN
+Y,GAMA,AIM,Communication Services,6613240.976,Gamma Comm,Gamma Communications plc,Telco services,GB00BQS10J50
+Y,YOU,AIM,Communication Services,2985952.441,YouGov,YouGov plc,Market research,GB00B1VQ6H25
+Y,TRMR,AIM,Communication Services,6731386.216,Tremor Int.,Tremor International Ltd,Advertising tech,IL0011320343
+Y,FDEV,AIM,Communication Services,2060679.37,Frontier,Frontier Developments plc,Gaming software,GB00BBT32N39
+Y,TM17,AIM,Communication Services,4137521.949,Team17,Team17 Group plc,Video games,GB00BYVX2X20
+Y,NFC,AIM,Communication Services,1535025.801,Next Fifteen,Next Fifteen Communications Grp PLC Ord 2.5P,Digital marketing,GB0030026057
+Y,SUMO,AIM,Communication Services,2318939.728,Sumo Group,Sumo Group plc,Video games,GB00BD3HV384
+Y,SAA,AIM,Communication Services,470566.1507,M&C Saatchi,M&C Saatchi plc,Advertising agency,GB00B01F7T14
+Y,XLM,AIM,Communication Services,967139.6474,XLMedia,Xlmedia plc,Digital publishing,JE00BH6XDL31
+Y,MIRI,AIM,Communication Services,246494.7279,Mirriad Advertising,Mirriad Advertising plc,Advertising,GB00BF52QY14
+Y,GMR,AIM,Communication Services,631819.4921,Gaming Realms,Gaming Realms plc,Mobile games,GB00BBHXD542
+Y,TMG,AIM,Communication Services,223843.2459,Mission Group,The Mission Group plc,Marketing,GB00B11FD453
+Y,BBB,AIM,Communication Services,284849.3411,Bigblu Broadband,Bigblu Broadband plc,Broadband,GB00BD5JMP10
+Y,EBQ,AIM,Communication Services,267473.4032,Ebiquity,Ebiquity,Marketing consulting,GB0004126057
+Y,GFIN,AIM,Communication Services,399147.2709,Gfinity,Gfinity plc,eSports,GB00BT9QD572
+Y,SYS1,AIM,Communication Services,86586.44531,SYSTEM1 Group,SYSTEM1 Group,Market research,GB00B1GVQH21
+Y,SECN,AIM,Communication Services,12562.21792,Sec Newgate,Sec Newgate,Public relations,IT0005200453
+Y,SEEN,AIM,Communication Services,10507.38692,SEEEN,SEEEN plc,Software,GB00BK6SHS41
+Y,IMMO,AIM,Communication Services,82066.13957,Immotion Group,Immotion Group,VR,GB00BD5JRP64
+Y,OMIP,AIM,Communication Services,30086.55304,One Media IP Group,One Media IP Group,Music,GB00B1DRDZ07
+Y,BIDS,AIM,Communication Services,170495.9861,Bidstack Group,Bidstack Group plc,Video game ads,GB00BZ7M6059
+Y,MOS,AIM,Communication Services,208199.0644,Mobile Streams,Mobile Streams PLC Ord 0.01P,Mobile media,GB00B0WJ3L68
+N,VCP,AIM,Consumer Discretionary,4835009.039,Victoria,Victoria plc,Flooring products,GB00BZC0LC10
+N,IGR,AIM,Consumer Discretionary,3352898.347,IG Design,IG Design Group plc,Gift cards,GB0004526900
+N,BWNG,AIM,Consumer Discretionary,1382932.624,N Brown Group,N Brown Group Plc,Clothes,GB00B1P6ZR11
+N,JOUL,AIM,Consumer Discretionary,1171244.309,Joules,Joules Group plc,Clothing,GB00BZ059357
+N,VTU,AIM,Consumer Discretionary,947719.5425,Vertu,Vertu Motors plc,Car retailer,GB00B1GK4645
+N,TUNE,AIM,Consumer Discretionary,821648.3246,Focusrite,Focusrite plc,Recording gear,GB00BSBMW716
+N,CPC,AIM,Consumer Discretionary,592947.4507,City Pub Group,City Pub Group plc (the),Pubs,GB00BYWRS683
+N,RBG,AIM,Consumer Discretionary,537303.0161,Revolution Bars,Revolution Bars Group PLC Ord 0.1P,Vodka Revs,GB00BVDPPV41
+N,SOS,AIM,Consumer Discretionary,170620.693,Sosandar,Sosandar plc,Fashion,GB00BDGS8G04
+N,TND,AIM,Consumer Discretionary,169947.1909,Tandem Group,Tandem Group,Sportswear,GB00B460T373
+N,EVE,AIM,Consumer Discretionary,129063.384,Eve Sleep,Eve Sleep plc,Sweet dreams,GB00BYWMFT51
+N,YNGN,AIM,Consumer Discretionary,123369.0192,Young & Co's,Young & Co's Brewery plc,Pubs,GB00B2NDK989
+N,NGHT,AIM,Consumer Discretionary,121111.6971,Nightcap,Nightcap plc,Cocktail bars,GB00BLKGVD49
+N,PIER,AIM,Consumer Discretionary,45444.65792,Brighton Pier,Brighton Pier,Summer holidays,GB00BG49KW66
+N,HRN,AIM,Consumer Discretionary,29017.49444,Hornby,Hornby plc,Model railways,GB00B01CZ652
+N,SGI,AIM,Consumer Discretionary,12596.91661,Stanley Gibbons,Stanley Gibbons,Stamps,GB0009628438
+N,AIEA,AIM,Consumer Discretionary,8984.107464,Airea,Airea,Flooring,GB0008123027
+Y,ASC,AIM,Consumer Discretionary,23559172.78,ASOS,ASOS plc,Online fashion retail,GB0030927254
+Y,BOO,AIM,Consumer Discretionary,21960855.3,Boohoo,Boohoo Group plc,Online fashion,JE00BG6L7297
+Y,ABDP,AIM,Consumer Discretionary,893174.0312,AB Dynamics,AB Dynamics plc,Automotive tech,GB00B9GQVG73
+N,G4M,AIM,Consumer Discretionary,375024.6034,GEAR4MUSIC,GEAR4MUSIC (Holdings) plc,Musical instruments,GB00BW9PJQ87
+Y,MYSL,AIM,Consumer Discretionary,39666.52523,Mysale Group,Mysale Group plc,Ecommerce,JE00BMH4MR96
+N,ULS,AIM,Consumer Discretionary,211474.4857,ULS Technology,Uls Technology plc,Conveyancing,GB00BNG8T458
+N,ESC,AIM,Consumer Discretionary,350146.5722,Escape Hunt,Escape Hunt plc,Escape rooms,GB00BDB79J29
+N,WEB,AIM,Consumer Discretionary,226419.6094,Webis Holdings,Webis Holdings Plc,Gambling,GB0004126271
+N,NTBR,AIM,Consumer Discretionary,8528.338789,Northern Bear,Northern Bear,Property services,GB00B19FLM15
+N,FEVR,AIM,Consumer Staples,9379915.351,Fever Tree,Fevertree Drinks plc,Tonic water,GB00BRJ9BJ26
+N,WINE,AIM,Consumer Staples,3630243.433,Naked Wines,Naked Wines plc,Wine boxes,GB00B021F836
+N,HOTC,AIM,Consumer Staples,697408.6871,Hotel Chocolat,Hotel Chocolat Group plc,Posh Dairy Milk,GB00BYZC3B04
+N,NICL,AIM,Consumer Staples,373158.281,Nichols,Nichols PLC Ord 10P,Vimto,GB0006389398
+N,FIF,AIM,Consumer Staples,304903.6714,Finsbury Food,Finsbury Food Group plc,Cakes,GB0009186429
+N,BMK,AIM,Consumer Staples,220105.2182,Benchmark,Benchmark Holdings plc,Fish food,GB00BGHPT808
+N,WYN,AIM,Consumer Staples,208309.6425,Wynnstay,Wynnstay Group plc,Feeds and seeds,GB0034212331
+N,BAR,AIM,Consumer Staples,63901.73653,Brand Architekts,Brand Architekts,Beauty products,GB0008667304
+N,CMET,AIM,Consumer Staples,60536.45021,Capital Metals,Capital Metals plc,Mineral sands,GB00BMF75608
+N,ZAM,AIM,Consumer Staples,42160.29399,Zambeef Products,Zambeef Products,Food producer,ZM0000000201
+N,PXS,AIM,Consumer Staples,25736.16379,Provexis,Provexis,Tomato extract,GB00B0923P27
+N,VLG,AIM,Consumer Staples,281995.5004,Venture Life,Venture Life Group plc,Healthcare products,GB00BFPM8908
+N,88E,AIM,Energy,4268711.752,88 Energy,88 Energy,Oil and gas,AU00000088E2
+N,HE1,AIM,Energy,3819673.74,Helium One Global,Helium One Global Ltd,Basic materials,VGG4392T1075
+N,PANR,AIM,Energy,2541793.143,Pantheon,Pantheon Resources plc,Oil and gas,GB00B125SX82
+N,UKOG,AIM,Energy,1195108.693,UK Oil & Gas,UK Oil & Gas plc,Oil & gas,GB00B9MRZS43
+N,HUR,AIM,Energy,1091291.228,Hurricane Energy,Hurricane Energy plc,Crude Oil Producers,GB00B580MF54
+N,TXP,AIM,Energy,1041407.494,Touchstone Exploration,Touchstone Exploration Inc,Oil and gas,CA89156L1085
+N,ZPHR,AIM,Energy,579261.0514,Zephyr Energy,Zephyr Energy plc,Oil and gas,GB00BF44KY60
+N,OEX,AIM,Energy,511165.0087,Oilex,Oilex Ld,Oil and gas,AU000000OEX8
+N,BOIL,AIM,Energy,483871.5993,Baron Oil,Baron Oil plc,Oil and gas,GB00B01QGH57
+N,ECHO,AIM,Energy,478224.9236,Echo Energy,Echo Energy plc,Energy,GB00BF0YPG76
+N,SQZ,AIM,Energy,477009.9534,Serica,Serica Energy plc,Oil & gas exploration,GB00B0CY5V57
+N,RBD,AIM,Energy,418023.4963,Reabold,Reabold Resources plc,Oil investments,GB00B95L0551
+N,IOG,AIM,Energy,390419.1974,IOG,IOG plc,Oil and gas,GB00BF49WF64
+N,QFI,AIM,Energy,356625.428,Quadrise Fuels,Quadrise Fuels,Oil and gas,GB00B11DDB67
+N,JOG,AIM,Energy,349221.1112,Jersey Oil and Gas,Jersey Oil and Gas plc,Oil and gas,GB00BYN5YK77
+N,MATD,AIM,Energy,319504.6414,Petro Matad,Petro Matad,Oil and gas,IM00B292WR19
+N,I3E,AIM,Energy,315440.8809,I3 Energy,I3 Energy plc,Energy,GB00BDHXPJ60
+N,INFA,AIM,Energy,299034.826,Infrastrata,Infrastrata,Oil and gas,GB00BLPJ1272
+N,CEG,AIM,Energy,284934.6755,Challenger Energy,Challenger Energy Group PLC,Oil and gas,IM00BN2RD444
+N,TRIN,AIM,Energy,281587.9675,Trinity,Trinity Exploration & Production,Oil and gas,GB00B8JG4R91
+N,UOG,AIM,Energy,276983.2518,United Oil & Gas,United Oil & Gas,Oil and gas,GB00BYX0MB92
+N,TOM,AIM,Energy,221698.5847,TomCo Energy,Tomco Energy plc,Oil and gas,IM00BZBXMN96
+N,SOU,AIM,Energy,212282.4441,Sound Energy,Sound Energy plc,Oil & gas exploration,GB00B90XFF12
+N,MSMN,AIM,Energy,206042.7605,Mosman Oil and Gas,Mosman Oil and Gas Limited,Oil and gas,AU0000XINET1
+N,UJO,AIM,Energy,201187.6826,Union Jack Oil,Union Jack Oil plc,Oil,GB00BLH1S316
+N,CHAR,AIM,Energy,181049.1784,Chariot Oil & Gas,Chariot Oil & Gas Ltd,Oil and gas,GG00B2R9PM06
+N,BLOE,AIM,Energy,135024.2982,Block Energy,Block Energy,Oil and gas,GB00BF3TBT48
+N,RKH,AIM,Energy,122731.0243,Rockhopper,Rockhopper Exploration plc,Oil and gas,GB00B0FVQX23
+N,EME,AIM,Energy,112851.3464,Empyrean Energy,Empyrean Energy,Oil and gas,GB00B09G2351
+N,PMG,AIM,Energy,100773.6435,Parkmead,Parkmead Group (the) plc,Oil and gas,GB00BGCYZL73
+N,PVR,AIM,Energy,97624.51072,Providence,Providence Resources plc,Oil and gas,IE00B66B5T26
+N,ADME,AIM,Energy,85966.15708,ADM Energy,Adm Energy plc,Natural gas,GB00BJFDXW97
+N,SCIR,AIM,Energy,84871.08363,Scirocco,Scirocco Energy plc,Oil and gas,GB00BF1BK408
+N,ECO,AIM,Energy,78374.15619,Eco (Atlantic),Eco (Atlantic) Oil & Gas Ltd Com Shs Npv (Di),Oil and gas,CA27887W1005
+N,AST,AIM,Energy,68431.34101,Ascent Resources,Ascent Resources plc,Oil and gas,GB00BJVH7905
+N,SDX,AIM,Energy,58045.51995,Sdx Energy,Sdx Energy plc,Oil and gas,GB00BJ5JNL69
+N,PPC,AIM,Energy,54601.54423,President Energy,President Energy plc,Oil and gas,GB00B3DDP128
+N,ORCP,AIM,Energy,50984.93863,Oracle Power,Oracle Power,Mining,GB00B23JN426
+N,DELT,AIM,Energy,50389.55406,Deltic Energy,Deltic Energy,Oil and gas,GB00B6SYKF01
+N,GCM,AIM,Energy,48093.80689,GCM Resources,GCM Resources,Mining,GB00B00KV284
+N,TLOU,AIM,Energy,43357.68569,Tlou Energy,Tlou Energy,Mining,AU000000TOU2
+N,ANGS,AIM,Energy,43336.66423,Angus Energy,Angus Energy plc,Oil and gas,GB00BYWKC989
+N,LBE,AIM,Energy,42829.57802,Longboat Energy,Longboat Energy,Oil and gas,GB00BKFW2482
+N,EDL,AIM,Energy,42143.29658,Edenville Energy,Edenville Energy plc,Mining,GB00BN47NP32
+N,IGAS,AIM,Energy,36858.43383,Igas Energy,Igas Energy,Oil and gas,GB00BZ042C28
+N,VOG,AIM,Energy,36117.58941,Victoria Oil and Gas,Victoria Oil & Gas plc,Oil and gas,GB00BRWR3752
+N,AURA,AIM,Energy,35643.72042,Aura Energy,Aura Energy,Mining,AU000000AEE7
+N,NCCL,AIM,Energy,35373.43303,Ncondezi Energy,Ncondezi Energy,Mining,VGG640631039
+N,TRP,AIM,Energy,28849.7581,Tower Resources,Tower Resources PLC Ord GBP0.00001,Oil and gas,GB00BZ6D6J81
+N,NTOG,AIM,Energy,28392.22734,Nostra Terra,Nostra Terra Oil & Gas Company plc,Oil and gas,GB00BZ76F335
+N,CASP,AIM,Energy,22842.90759,Caspian Sunrise,Caspian Sunrise plc,Oil and gas,GB00B1W0VW36
+N,LEK,AIM,Energy,19654.84695,Lekoil,Lekoil,Oil and gas,KYG5462G1073
+N,BLVN,AIM,Energy,14349.3252,Bowleven,Bowleven,Oil and gas,GB00B04PYL99
+N,POS,AIM,Energy,5383.875718,Plexus Holdings,Plexus Holdings,Oil and gas,GB00B0MDF233
+N,VLS,AIM,Energy,225699.6984,Velocys,Velocys plc,Green energy,GB00B11SZ269
+N,PRES,AIM,Energy,63272.90199,Pressure Tech,Pressure Tech,Industrial valves,GB00B1XFKR57
+N,TGP,AIM,Energy,220234.1154,Tekmar Group,Tekmar Group plc,Engineering services,GB00BDFGGK53
+N,POLR,AIM,Financials,2716818.071,Polar Capital,Polar Capital Holdings plc,Investment management,GB00B1GCLT25
+N,ANIC,AIM,Financials,2022819.827,Agronomics,Agronomics,Investment company,IM00B6QH1J21
+N,RQIH,AIM,Financials,1052880.897,Randall & Quilter,Randall & Quilter Investment Holdings,Non-life insurance,BMG7371X1065
+N,BRH,AIM,Financials,990945.6587,Braveheart,Braveheart Investment Group plc,Investment group,GB00B13XV322
+N,GHE,AIM,Financials,495197.4343,Gresham House,Gresham House plc,Investment manager,GB0003887287
+N,MCL,AIM,Financials,473838.2785,Morses Club,Morses Club PLC Ord GBP0.01,Doorstep lender,GB00BZ6C4F71
+N,FRP,AIM,Financials,437111.5468,FRP Advisory,FRP Advisory Group plc,Corporate finance,GB00BL9BW044
+N,PIRI,AIM,Financials,268963.9249,Pires Investments,Pires Investments plc,Investment company,GB00BD07SH45
+N,RFX,AIM,Financials,210792.2837,Ramsdens,Ramsdens Holdings plc,Financial services,GB00BDR6V192
+N,MERC,AIM,Financials,194161.6733,Mercia,Mercia Asset Management plc,Asset management,GB00BSL71W47
+N,GUN,AIM,Financials,133331.1596,Gunsynd,Gunsynd plc,Investment company,GB00BMD6PM55
+N,CIP,AIM,Financials,60159.40662,CIP Merchant,CIP Merchant,Investment trust,GG00BF8NW879
+N,TAVI,AIM,Financials,58348.33916,Tavistock Investments,Tavistock Investments,Investment management,GB00BLNMLS43
+N,TIME,AIM,Financials,41127.42485,Time Finance,Time Finance plc,Financial services,GB00BCDBXK43
+N,WHI,AIM,Financials,35012.98453,W.H. Ireland Group,W.H. Ireland Group,Investment management,GB0009241885
+N,HUW,AIM,Financials,32271.42864,Helios Underwriting,Helios Underwriting,Investment company,GB00B23XLS45
+N,ORCH,AIM,Financials,24871.2202,Orchard Funding,Orchard Funding,Financial services,GB00BYZFM569
+N,BUR,AIM,Financials,5387287.223,Burford Capital,Burford Capital Ltd,Legal financing,GG00BMGYLN96
+N,IPX,AIM,Financials,1999592.881,Impax AM,Impax Asset Management Group PLC Ord 1P,Green asset manager,GB0004905260
+N,GROW,AIM,Financials,5979563.42,Draper Esprit,Draper Esprit plc,Venture Capital,GB00BY7QYJ50
+N,MAB1,AIM,Financials,2824621.22,Mortgage Advice Bureau,Mortgage Advice Bureau (Hldgs) PLC Ord 0.1P,Mortgage advice,GB00BQSBH502
+N,AFX,AIM,Financials,1598094.878,Alpha FX Group,Alpha FX Group plc,FX management,GB00BF1TM596
+N,NUM,AIM,Financials,558056.6041,Numis,Numis Corporation plc,Stockbroking,GB00B05M6465
+N,AGFX,AIM,Financials,311284.3166,Argentex,Argentex Group plc,Currency specialists,GB00BJLPH056
+N,LIT,AIM,Financials,596259.421,Litigation Capital,Litigation Capital Management Ltd,Legal services,AU000000LCA6
+N,HAT,AIM,Financials,142736.8233,H&T Group,H&T Group plc,Pawnbroker,GB00B12RQD06
+N,MANO,AIM,Financials,225105.5209,Manolete Partners,Manolete Partners plc,Legal services,GB00BYWQCY12
+N,TERN,AIM,Financials,2049499.433,Tern,Tern,Venture capital,GB00BFPMV798
+N,ASLR,AIM,Financials,933188.915,Asimilar Group,Asimilar Group plc,Tech investors,GB00BFX2VL54
+N,TSL,AIM,Financials,248608.9642,ThinkSmart,Thinksmart Limited,Digital payments,AU000XINEAE8
+N,FFWD,AIM,Financials,179736.4438,Fastforward,Fastforward,Venture capital,GG00BRK9BQ81
+N,VELA,AIM,Financials,196950.9638,Vela Tech,Vela Technologies plc,Tech investing,GB00BYZ9XC29
+N,BLU,AIM,Financials,87112.87122,Blue Star Capital,Blue Star Capital plc,Tech investors,GB00B02SSZ25
+N,OBC,AIM,Financials,101400.3366,Online Blockchain,Online Blockchain plc,Blockchain,GB0006601479
+Y,ABC,AIM,Health Care,7972187.365,Abcam,Abcam plc,Antibodies,GB00B6774699
+Y,HCM,AIM,Health Care,287462.1732,Hutchmed,Hutchmed (China) Ltd,Medicine,KYG4672N1198
+Y,CVSG,AIM,Health Care,8445878.038,CVS,CVS Group plc,Pet medicine,GB00B2863827
+Y,CLIN,AIM,Health Care,8287303.421,Clinigen,Clinigen Group plc,Specialty pharmacauticals,GB00B89J2419
+Y,RENX,AIM,Health Care,1475498.182,Renalytix AI,Renalytix AI plc,AI diagnostics,GB00BYWL4Y04
+Y,EMIS,AIM,Health Care,2226602.033,Emis,Emis Group plc,Computer Services,GB00B61D1Y04
+Y,CRW,AIM,Health Care,2645060.767,Craneware,Craneware plc,Medical software,GB00B2425G68
+Y,CTH,AIM,Health Care,940898.601,CareTech,CareTech Holdings plc,Care homes,GB00B0KWHQ09
+Y,ERGO,AIM,Health Care,1287847.107,Ergomed,Ergomed PLC Ord 1P,Pharma services,GB00BN7ZCY67
+Y,AMS,AIM,Health Care,1499252.878,Advanced Medical Solutions,Advanced Medical Solutions Group plc,Surgical glue,GB0004536594
+Y,AVCT,AIM,Health Care,9953881.786,Avacta Group,Avacta Group plc,Biotech,GB00BYYW9G87
+Y,SLN,AIM,Health Care,1100300.632,Silence Therapeutics,Silence Therapeutics plc,Biotechnology,GB00B9GTXM62
+Y,APH,AIM,Health Care,2067213.04,Alliance Pharma,Alliance Pharma plc,Drugs,GB0031030819
+Y,EKF,AIM,Health Care,1035357.412,EKF Diagnostics,EKF Diagnostics Holdings plc,Lab and hospital tests,GB0031509804
+Y,CREO,AIM,Health Care,182471.876,Creo Medical,Creo Medical Group plc,Energy medicine,GB00BZ1BLL44
+Y,SNG,AIM,Health Care,5315349.061,Synairgen,Synairgen plc,Pharmaceuticals,GB00B0381Z20
+Y,AMYT,AIM,Health Care,529914.6618,Amryt Pharma,Amryt Pharma plc,Rare and orphan diseases,GB00BKLTQ412
+Y,TSTL,AIM,Health Care,836597.1356,Tristel,Tristel plc,Disinfection products,GB00B07RVT99
+Y,AGL,AIM,Health Care,1266995.687,Angle,Angle plc,Medical technology,GB0034330679
+Y,NCYT,AIM,Health Care,6692085.979,Novacyt,Novacyt SA,Biotechnology,FR0010397232
+Y,SENS,AIM,Health Care,548313.3116,Sensyne Health,Sensyne Health plc,Medical tech,GB00BYV3J755
+Y,SAR,AIM,Health Care,1385341.686,Sareum,Sareum Holdings plc,Drugs,GB00B02RFS12
+Y,BVXP,AIM,Health Care,421213.0571,Bioventix,Bioventix plc,Biotechnology,GB00B4QVDF07
+Y,ORPH,AIM,Health Care,1677797.402,Open Orphan,Open Orphan plc,Pharmaceuticals,GB00B9275X97
+Y,POLX,AIM,Health Care,727609.697,Polarean Imaging,Polarean Imaging plc,Industrials,GB00BF3DT583
+Y,FARN,AIM,Health Care,104498.3434,Faron,Faron Pharmaceuticals Oy,Drugs,FI4000153309
+Y,DDDD,AIM,Health Care,3006125.817,4D Pharma,4D Pharma plc,Life sciences,GB00BJL5BR07
+Y,SCLP,AIM,Health Care,329094.3319,Scancell Holdings,Scancell Holdings plc,Cancer therapies,GB00B63D3314
+Y,REDX,AIM,Health Care,13756.37301,Redx Pharma,Redx Pharma plc,Drugs,GB00BSNB6S51
+Y,AGY,AIM,Health Care,82839.33625,Allergy Therapeutics,Allergy Therapeutics plc,Pharmaceuticals,GB00B02LCQ05
+Y,CIR,AIM,Health Care,419357.4849,Circassia,Circassia Group plc,Biomeds,GB00BJVD3B28
+Y,FUM,AIM,Health Care,1404692.683,Futura Medical,Futura Medical plc,Medical tech,GB0033278473
+Y,STX,AIM,Health Care,1354845.448,Shield Therapeutics,Shield Therapeutics plc,Drugs,GB00BYV81293
+Y,DNL,AIM,Health Care,371444.9055,Diurnal Group,Diurnal Group plc,Pharmaceuticals,GB00BDB6Q760
+Y,ODX,AIM,Health Care,3078601.582,Omega Diagnostics,Omega Diagnostics Group plc,Drugs,GB00B1VCP282
+Y,SBTX,AIM,Health Care,844333.5673,Skinbiotherapeutics,Skinbiotherapeutics plc,Skin health,GB00BF33H870
+Y,ETX,AIM,Health Care,234651.1952,E-Therapeutics,E-Therapeutics plc,Biotechnology,GB00B2823H99
+Y,YGEN,AIM,Health Care,414241.0286,Yourgene Health,Yourgene Health plc,Gene diagnostics,GB00BN31ZD89
+Y,C4XD,AIM,Health Care,202443.6368,C4X Discovery,C4X Discovery,Drugs,GB00BQQ2RV18
+Y,IHC,AIM,Health Care,189529.8055,Inspiration Health,Inspiration Healthcare Group plc,Healthcare,GB00BXDZL105
+Y,DEST,AIM,Health Care,220030.9521,Destiny Pharma,Destiny Pharma,Biotechnology,GB00BDHSP575
+Y,TLY,AIM,Health Care,350029.6124,Totally,Totally plc,Healthcare services,GB00BYM1JJ00
+Y,RENE,AIM,Health Care,303437.3231,ReNeuron,Reneuron Group PLC Ord 1P,Stem cell research,GB00BF5G6K95
+Y,DVRG,AIM,Health Care,459056.0533,Deepverge,Deepverge PLC Ord 0.1P,Toxin analysis,GB00BMGWZY29
+Y,ABDX,AIM,Health Care,676703.499,Abingdon Health,Abingdon Health Plc,Medical tests,GB00BLF79J41
+Y,OBD,AIM,Health Care,211465.5295,Oxford Biodynamics,Oxford Biodynamics plc,Biotech,GB00BD5H8572
+Y,TRX,AIM,Health Care,217371.2408,Tissue Regenix,Tissue Regenix Group plc,Biotechnology,GB00B5SGVL29
+Y,OPTI,AIM,Health Care,220277.9773,Optibiotix Health,Optibiotix Health plc,Biotech,GB00BP0RTP38
+Y,IXI,AIM,Health Care,241519.5939,Ixico,Ixico plc,Clinical research,GB00BFXR4C20
+Y,GDR,AIM,Health Care,1263651.119,Genedrive,Genedrive plc,Healthcare,GB00B1VKB244
+Y,FAB,AIM,Health Care,80028.38948,Fusion Antibodies,Fusion Antibodies,Biotechnology,GB00BDQZGK16
+Y,SUN,AIM,Health Care,26566.13201,Surgical Innovations,Surgical Innovations,Medical devices,GB0004016704
+Y,RUA,AIM,Health Care,64311.55153,Rua Life Sciences,Rua Life Sciences,Medical devices,GB0033360586
+Y,MTPH,AIM,Health Care,146964.4583,Midatech Pharma,Midatech Pharma,Pharmaceuticals,GB00BKT14T00
+Y,IMM,AIM,Health Care,100983.6214,Immupharma,Immupharma plc,Biopharmaceuticals,GB0033711010
+Y,MHC,AIM,Health Care,428346.8504,Myhealthchecked,Myhealthchecked Plc,Medical tests,GB00BYZ2R301
+Y,EVG,AIM,Health Care,241924.0357,Evgen Pharma,Evgen Pharma,Drugs,GB00BSVYN304
+Y,PRM,AIM,Health Care,111814.1577,Proteome Sciences,Proteome Sciences,Medical devices,GB0003104196
+Y,N4P,AIM,Health Care,186100.6573,N4 Pharma,N4 Pharma,Medical equipment,GB00BYW8QM32
+Y,VAL,AIM,Health Care,176361.4171,Valirx,Valirx plc,Biotech,GB00BLH13C52
+Y,FDBK,AIM,Health Care,32179.07285,Feedback,Feedback,Medical software,GB0003340550
+Y,OVB,AIM,Health Care,5281.27966,Ovoca Bio,Ovoca Bio,Biopharmaceuticals,IE00B4XVDC01
+Y,PYC,AIM,Health Care,58645.22034,Physiomics,Physiomics plc,Biopharmaceuticals,GB00BDR6W943
+N,JSG,AIM,Industrials,2827555.371,Johnson Service Group,Johnson Service Group plc,Work uniforms,GB0004762810
+N,VLX,AIM,Industrials,2555713.547,Volex,Volex plc,Power cords,GB0009390070
+N,RST,AIM,Industrials,1022488.849,Restore,Restore plc,Shredding and moving,GB00B5NR1S72
+N,RMS,AIM,Industrials,932934.4731,Remote Monitored,Remote Monitored Systems plc,Industrials,GB00BFX0ZN92
+N,DX,AIM,Industrials,866269.6039,Dx,Dx (Group) plc,Mail,GB00BJTCG679
+N,SOM,AIM,Industrials,432270.5768,Somero,Somero Enterprise Inc Com Stk,Flat floors,USU834501038
+N,JHD,AIM,Industrials,395107.5662,James Halstead,James Halstead PLC Ord 5P,Flooring,GB00B0LS8535
+N,RNO,AIM,Industrials,190463.7761,Renold,Renold,Machinery,GB0007325078
+N,NBI,AIM,Industrials,43179.88727,Northbridge,Northbridge,Industrial equipment,GB00B0SPFW38
+N,FOX,AIM,Industrials,22044.22746,Fox Marble,Fox Marble Holdings plc,Mining,GB00B7LGG306
+N,ASY,AIM,Industrials,12979.22238,Andrew Sykes,Andrews Sykes Group plc,Air-con and heating,GB0002684552
+N,GMAA,AIM,Industrials,8242.239156,Gama Aviation,Gama Aviation,Private jets,GB00B3ZP1526
+N,RWS,AIM,Industrials,9186819.438,RWS,RWS Holdings plc,Translation services,GB00BVFCZV34
+Y,ITM,AIM,Industrials,23403729.59,ITM Power,ITM Power plc,Energy tech,GB00B0130H42
+Y,DATA,AIM,Industrials,435203.4861,GlobalData,GlobalData plc,Data analytics,GB00B87ZTG26
+Y,CWR,AIM,Industrials,13592309.38,Ceres,Ceres Power Holdings plc,Cleaner energy,GB00BG5KQW09
+Y,SMS,AIM,Industrials,2549336.915,Smart Metering Systems,Smart Metering Systems plc,Smart meters,GB00B4X1RC86
+Y,MRL,AIM,Industrials,1544254.9,Marlowe,Marlowe plc,Compliance tech,GB00BD8SLV43
+N,RNWH,AIM,Industrials,799275.7743,Renew,Renew Holdings plc,Engineering services,GB0005359004
+Y,AFC,AIM,Industrials,4125800.479,AFC Energy,AFC Energy plc,Renewable energy,GB00B18S7B29
+Y,JDG,AIM,Industrials,925039.7957,Judges Scientific,Judges Scientific plc,Scientific instruments,GB0032398678
+N,KGH,AIM,Industrials,715595.166,Knights,Knights Group Holdings PLC Ord 0.2P,Law firm,GB00BFYF6298
+N,YCA,AIM,Industrials,3559325.214,Yellow Cake,Yellow Cake plc,Uranium,JE00BF50RG45
+N,AUG,AIM,Industrials,624363.5173,Augean,Augean plc,Waste management,GB00B02H2F76
+N,K3C,AIM,Industrials,302935.5371,K3 Capital,K3 Capital Group plc,Business advisors,GB00BF1HPD20
+N,CHRT,AIM,Industrials,213221.1595,Cohort,Cohort plc,Defence and security,GB00B0YD2B94
+N,GTLY,AIM,Industrials,286716.3426,Gateley,Gateley Holdings plc,Legal services,GB00BXB07J71
+N,PHE,AIM,Industrials,895651.3291,PowerHouse Energy,PowerHouse Energy Group plc,Waste energy,GB00B4WQVY43
+N,FNTL,AIM,Industrials,650309.8866,Fintel,Fintel plc,Financial services,GB00BG1THS43
+Y,IKA,AIM,Industrials,538692.5704,Ilika,Ilika plc,Batteries,GB00B608Z994
+N,BEG,AIM,Industrials,778312.6787,Begbies Traynor,Begbies Traynor Group plc,Professional services,GB00B0305S97
+N,RBGP,AIM,Industrials,312824.5321,Rbg,Rbg Holdings plc,Professional services,GB00BFM6WL52
+N,HSS,AIM,Industrials,465336.7286,HSS Hire Group,HSS Hire Group Plc,Equipment hire,GB00BVFD4645
+Y,AVG,AIM,Industrials,138276.8984,Avingtrans,Avingtrans plc,Precision engineering,GB0009188797
+Y,IES,AIM,Industrials,874879.8678,Invinity Energy,Invinity Energy Systems plc,Batteries,JE00BLR94N79
+N,STAF,AIM,Industrials,501264.2953,Staffline,Staffline Group plc,Recruitment agency,GB00B040L800
+Y,MPAC,AIM,Industrials,372111.8796,Mpac Group,Mpac Group plc,Automation,GB0005991111
+N,GATC,AIM,Industrials,378575.4405,Gattaca,Gattaca,Recruiment,GB00B1FMDQ43
+N,SFE,AIM,Industrials,753377.7238,Safestyle UK,Safestyle UK plc,Double glazing,JE00BGP63272
+N,LDG,AIM,Industrials,524139.8174,Logistics Development,Logistics Development Group plc,Lorries,GB00BD8QVC95
+N,XSG,AIM,Industrials,104663.6293,Xeros Technology,Xeros Technology Group,Filtration tech,GB00BMGYBJ57
+N,ARE,AIM,Industrials,159771.0667,Arena Events,Arena Events,Events,GB00BF0HYJ24
+N,INCE,AIM,Industrials,314046.9665,The Ince Group,The Ince Group,Professional services,GB00BZBY3Y09
+N,CPP,AIM,Industrials,20449.83749,CPP Group,CPP Group,Financial services,GB00BMDX5Z93
+Y,CKT,AIM,Industrials,55407.61664,Checkit,Checkit,Software,GB00B0C5RG72
+Y,SAE,AIM,Industrials,306943.076,Simec Atlantis,Simec Atlantis Energy,Green energy,SG9999011118
+N,CTG,AIM,Industrials,19468.00514,Christie Group,Christie Group,Professional services,GB0001953156
+N,TPG,AIM,Industrials,102782.6343,TP Group,Tp Group plc,Engineering services,GB0030591514
+N,SUH,AIM,Industrials,7654.017191,Sutton Harbour,Sutton Harbour,Property,GB0008659202
+N,TEK,AIM,Industrials,298443.6627,Tekcapital,Tekcapital,Investment company,GB00BKXGY798
+Y,VDTK,AIM,Industrials,77876.50966,Verditek,Verditek plc,Clean tech,GB00BF2C0424
+N,RDGC,AIM,Industrials,167290.7116,Ridgecrest,Ridgecrest Plc,Recruitment,GB0004251970
+N,KINO,AIM,Industrials,58796.77667,Kinovo,Kinovo Plc,Property maintenance,GB00BV9GHQ09
+Y,KWS,AIM,Information Technology,9937665.802,Keywords Studios,Keywords Studios plc,Tech consulting,GB00BBQ38507
+Y,GBG,AIM,Information Technology,3388199.135,GB,GB Group plc,Software provider,GB0006870611
+Y,LTG,AIM,Information Technology,4725957.734,Learning Tech,Learning Technologies Group plc,E-Learning software,GB00B4T7HX10
+Y,PRSM,AIM,Information Technology,9101117.386,Blue Prism,Blue Prism Group plc,Software provider,GB00BYQ0HV16
+Y,KAPE,AIM,Information Technology,1301895.755,Kape,Kape Technologies plc,Cybersecurity,IM00BQ8NYV14
+Y,IDEA,AIM,Information Technology,1607298.906,Ideagen,Ideagen plc,Software,GB00B0CM0C50
+Y,DOTD,AIM,Information Technology,2265738.466,Dotdigital,Dotdigital Group plc,Marketing tech,GB00B3W40C23
+Y,KETL,AIM,Information Technology,1831524.992,Strix,Strix Group plc,Kettles,IM00BF0FMG91
+Y,FDP,AIM,Information Technology,3667235.113,First Derivatives,First Derivatives plc,Software & Computer Services,GB0031477770
+Y,IBPO,AIM,Information Technology,62335.5481,iEnergizer,iEnergizer Ltd,Outsourcing,GG00B54NMG96
+Y,MIDW,AIM,Information Technology,1160914.278,Midwich,Midwich Group PLC Ord GBP0.01,AV tech,GB00BYSXWW41
+Y,IQE,AIM,Information Technology,2306950.666,IQE,IQE plc,5G technology,GB0009619924
+Y,GHH,AIM,Information Technology,616419.8772,Gooch and Housego,Gooch & Housego PLC Ord 20P,Lasers,GB0002259116
+Y,SEE,AIM,Information Technology,698773.1985,Seeing Machines,Seeing Machines Ltd,AI,AU0000XINAJ0
+Y,IOM,AIM,Information Technology,780012.3871,Iomart,Iomart Group plc,Web services,GB0004281639
+Y,TCM,AIM,Information Technology,1228188.995,Telit,Telit Communications plc,Internet of Things,GB00B06GM726
+Y,IDOX,AIM,Information Technology,553986.8716,Idox,Idox plc,Software.,GB0002998192
+Y,TRCS,AIM,Information Technology,623161.8446,Tracsis,Tracsis plc,Transit software,GB00B28HSF71
+Y,ACSO,AIM,Information Technology,1456123.203,Accesso Technology,Accesso Technology Group plc,Ticketing and ecommerce,GB0001771426
+Y,WAND,AIM,Information Technology,799456.1096,WANdisco,Wandisco plc,Data migration,JE00B6Y3DV84
+Y,CNIC,AIM,Information Technology,158936.3274,Centralnic Group,Centralnic Group plc,Domains,GB00BCCW4X83
+Y,SDI,AIM,Information Technology,879316.4268,Sdi Group,Sdi Group plc,Digital imaging,GB00B3FBWW43
+Y,ECK,AIM,Information Technology,449579.0347,Eckoh,Eckoh plc,Payments,GB0033359141
+Y,BGO,AIM,Information Technology,332690.7179,Bango,Bango plc,ecommerce tech,GB00B0BRN552
+Y,FNX,AIM,Information Technology,527318.2824,Fonix Mobile,Fonix Mobile plc,Payments,GB00BN789668
+Y,D4T4,AIM,Information Technology,209717.1205,D4T4 Solutions,D4T4 Solutions plc,IT services,GB0001351955
+Y,OMG,AIM,Information Technology,624452.2165,Oxford Metrics,Oxford Metrics plc,Software,GB0030312788
+Y,AMO,AIM,Information Technology,196869.4237,Amino Technologies,Amino Technologies plc,TV tech,GB00B013SN63
+Y,ZOO,AIM,Information Technology,276554.1668,Zoo Digital,Zoo Digital Group plc,Media services,GB00B1FQDL10
+Y,BIRD,AIM,Information Technology,407578.533,Blackbird,Blackbird plc,Software,GB0004740477
+Y,EQLS,AIM,Information Technology,255103.2666,Equals,Equals Group plc,Payments,GB00BLS0XX25
+Y,SOLI,AIM,Information Technology,128083.1798,Solid State,Solid State plc,Rugged tech,GB0008237132
+Y,KMK,AIM,Information Technology,282242.5435,Kromek Group,Kromek Group plc,Radiation detection,GB00BD7V5D43
+Y,CNC,AIM,Information Technology,131276.4666,Concurrent Tech,Concurrent Technologies PLC Ord 1P,Processor design,GB0002183191
+Y,TWD,AIM,Information Technology,176270.6204,Trackwise Designs,Trackwise Designs,Printed circuits,GB00BFYT9999
+Y,SRT,AIM,Information Technology,110430.1681,SRT Marine Systems,Srt Marine Systems plc,Security services,GB00B0M8KM36
+Y,NAPS,AIM,Information Technology,208469.1012,Napster,Napster Group Plc,Music VR and streaming,GB00BD2YHN21
+Y,PCIP,AIM,Information Technology,151821.7312,PCI-Pal,PCI-Pal,Payment solutions,GB0009737155
+Y,SMRT,AIM,Information Technology,164853.3941,Smartspace Software,Smartspace Software,IT services,GB00BYWN0F98
+Y,LOOP,AIM,Information Technology,382485.5311,Loopup Group,Loopup Group plc,Cloud communications,GB00BYQP6S60
+Y,7DIG,AIM,Information Technology,83616.50641,7digital,7digital,Streaming,GB00BMH46555
+Y,CPX,AIM,Information Technology,112075.743,Cap-XX,Cap-XX,Supercapacitators,AU0000XINAS1
+Y,GRC,AIM,Information Technology,76906.48934,GRC International,GRC International,IT services,GB00BG06MV41
+Y,CYAN,AIM,Information Technology,101762.8612,Cyanconnode,Cyanconnode Holdings plc,Wireless comms,GB00BF93WP34
+Y,ALT,AIM,Information Technology,80996.18435,Altitude Group,Altitude Group,IT services,GB00B0LSFV82
+Y,ZYT,AIM,Information Technology,81233.96657,Zytronic,Zytronic,Touch screens,GB0006971013
+Y,CCS,AIM,Information Technology,26268.91587,Crossword,Crossword,Cybersecurity,GB00BNG2LT65
+Y,FTC,AIM,Information Technology,47793.99408,Filtronic,Filtronic,Telecoms,GB0003362992
+Y,SYS,AIM,Information Technology,48926.70634,SysGroup,SysGroup,IT services,GB00BYT18182
+Y,TIDE,AIM,Information Technology,36840.963,Crimson Tide,Crimson Tide,Software,GB0002080082
+Y,MNO,AIM,Information Technology,31344.69013,Maestrano Group,Maestrano Group,Software,GB00BYZQM590
+Y,ARC,AIM,Information Technology,34235.49137,Arcontech Group,Arcontech Group,Market data,GB00BDBBJZ03
+Y,RDT,AIM,Information Technology,39559.97727,Rosslyn Data,Rosslyn Data,Software,GB00BKX5CP01
+Y,LSAI,AIM,Information Technology,67693.56196,Location Sciences,Location Sciences Group plc,Data intelligence,GB00BGT36S19
+Y,NAR,AIM,Information Technology,6429.863051,Northamber,Northamber,IT services,GB00B2Q99X01
+Y,DMTR,AIM,Information Technology,56097.47828,Deepmatter Group,Deepmatter Group plc,Chemistry tech,GB00B29YYY86
+Y,WSG,AIM,Information Technology,346232.4212,Westminster Group,Westminster Group,Security,GB00B1XLC220
+Y,PTRO,AIM,Information Technology,121082.4286,Pelatro,Pelatro,Marketing tools,GB00BYXH8F66
+Y,PEB,AIM,Information Technology,37044.58812,Pebble Beach,Pebble Beach,Software,GB0001482891
+Y,UNG,AIM,Information Technology,30784.0664,Universe Group,Universe Group,Payment systems,GB0009483594
+Y,ING,AIM,Information Technology,5553.964896,Ingenta,Ingenta,Software,GB00B3BDTG73
+Y,CSSG,AIM,Information Technology,5336.241038,Croma Security,Croma Security,Security,GB00B5MJV178
+Y,IDE,AIM,Information Technology,5263.463245,Ide Group,Ide Group,IT services,GB00B4NJ4984
+Y,CTEA,AIM,Information Technology,232388.0631,Catenae Innovation,Catenae Innovation plc,Digital media,GB00BKM6CG53
+Y,SNT,AIM,Information Technology,102461.383,Sabien Technology,Sabien Technology Group plc,Energy-saving hardware,GB00BN6JG812
+N,GGP,AIM,Materials,5798628.562,Greatland Gold,Greatland Gold plc,Gold mining,GB00B15XDH89
+N,EUA,AIM,Materials,4746077.553,Eurasia,Eurasia Mining plc,Platinum mining,GB0003230421
+N,BREE,AIM,Materials,4510952.458,Breedon,Breedon Group plc,Concrete products,JE00B2419D89
+N,JLP,AIM,Materials,2803065.365,Jubilee Metals,Jubilee Metals Group plc,Platinum extraction,GB0031852162
+N,SLP,AIM,Materials,2484322.358,Sylvania Platinum,Sylvania Platinum Limited Cmn Shs,Mining,BMG864081044
+N,CAML,AIM,Materials,2206524.024,Central Asia Metals,Central Asia Metals plc,Base metals,GB00B67KBV28
+N,ATYM,AIM,Materials,1549512.567,Atalaya Mining,Atalaya Mining plc,Mining,CY0106002112
+N,BMN,AIM,Materials,1534276.432,Bushveld,Bushveld Minerals Ltd,Metal mining,GG00B4TM3943
+N,RMM,AIM,Materials,1274555.592,Rambler Mining,Rambler Metals and Mining Plc,Mining,GB00BLFJ1613
+N,PAF,AIM,Materials,1020318.69,Pan African Resources,Pan African Resources plc,Precious metal mining,GB0004300496
+N,PREM,AIM,Materials,721285.8614,Premier African,Premier African,Mining,VGG7223M1005
+N,SHG,AIM,Materials,661809.7047,Shanta Gold,Shanta Gold Ld Ord 0.01P,Gold mining,GB00B0CGR828
+N,TSG,AIM,Materials,602303.1973,Trans-Siberian Gold plc,Trans-Siberian Gold,Gold mining,GB0033756866
+N,PXC,AIM,Materials,579953.9047,Phoenix Copper,Phoenix Copper Limited,Mining,VGG7060R1139
+N,ARCM,AIM,Materials,540910.0564,Arc Minerals,Arc Minerals Ld Ords Npv (Di),Mining,VGG045791016
+N,HUM,AIM,Materials,539128.0426,Hummingbird Resources,Hummingbird Resources plc,Gold mining,GB00B60BWY28
+N,HZM,AIM,Materials,504741.0488,Horizonte Minerals,Horizonte Minerals,Mining,GB00B11DNM70
+N,ARS,AIM,Materials,449459.6502,Asiamet Resources,Asiamet Resources Ld Com Shs USD0.01 (Di),Mining,BM04521V1038
+N,ITX,AIM,Materials,433540.239,Itaconix,Itaconix plc,Industrials,GB00B84LVH87
+N,XTR,AIM,Materials,431004.2775,Xtract Resources,Xtract Resources plc,Metal mining,GB00BYSX2795
+N,JAY,AIM,Materials,410232.6545,Bluejay Mining,Bluejay Mining plc,Mining,GB00BFD3VF20
+N,KEFI,AIM,Materials,405185.5403,KEFI,KEFI Gold and Copper Inc,Mining,GB00BD8GP619
+N,DUKE,AIM,Materials,401834.3285,Duke Royalty,Duke Royalty Limited Ords Npv,Finance,GG00BYZSSY63
+N,SAV,AIM,Materials,399643.8635,Savannah,Savannah Resources plc,Mining,GB00B647W791
+N,ECR,AIM,Materials,386253.9379,ECR Minerals,ECR Minerals plc,Gold mining,GB00BYYDKX57
+N,IRR,AIM,Materials,364401.2852,Ironridge Resources,Ironridge Resources Limited,Mining,AU0000XINEX3
+N,WSBN,AIM,Materials,354728.4979,Wishbone Gold,Wishbone Gold plc,Gold mining,GI000A2PX455
+N,MTR,AIM,Materials,348479.4002,Metal Tiger,Metal Tiger plc,Investment company,GB00BMQC0691
+N,AAZ,AIM,Materials,331755.1774,Anglo Asian Mining,Anglo Asian Mining plc,Mining,GB00B0C18177
+N,LND,AIM,Materials,329385.4015,Landore Resources,Landore Resources,Gold mining,GG00BMX4VR69
+N,VAST,AIM,Materials,308793.6281,Vast Resources,Vast Resources Plc,Gold mining,GB00BMD68046
+N,UFO,AIM,Materials,300398.9276,Alien Metals,Alien Metals Limited,Mining,VGG017351021
+N,ATM,AIM,Materials,243379.4934,Afritin Mining,Afritin Mining,Mining,GG00BD95V148
+N,OMI,AIM,Materials,227370.953,Orosur Mining,Orosur Mining Inc Com Shs Npv,Gold mining,CA6871961059
+N,ORR,AIM,Materials,222087.0489,Oriole Resources,Oriole Resources plc,Gold mining,GB00B0T29327
+N,CRCL,AIM,Materials,210682.633,Corcel,Corcel Plc,Mining,GB00BKM69866
+N,SRB,AIM,Materials,206834.264,Serabi Gold,Serabi Gold plc,Gold mining,GB00BG5NDX91
+N,CGH,AIM,Materials,202039.9524,Chaarat Gold,Chaarat Gold Holdings Ld,Gold mining,VGG203461055
+N,ACP,AIM,Materials,182683.6362,Armadale Capital,Armadale Capital,Investment company,GB00BYMSY631
+N,POW,AIM,Materials,175914.7589,Power Metal,Power Metal Resources plc,Mining,GB00BYWJZ743
+N,BZT,AIM,Materials,166747.5878,Bezant Resources,Bezant Resources plc,Mining,GB00B1CKQD97
+N,GRL,AIM,Materials,162343.4602,Goldstone Resources,Goldstone Resources,Gold mining,JE00BRJ8YF63
+N,MTL,AIM,Materials,135720.8151,Metals Exploration,Metals Exploration,Mining,GB00B0394F60
+N,KP2,AIM,Materials,128525.4899,Kore Potash,Kore Potash,Mining,GB00BYP2QJ94
+N,AMC,AIM,Materials,127080.0622,Amur Minerals,Amur Minerals Corp,Mining,VGG042401007
+N,ROCK,AIM,Materials,119587.1243,Rockfire Resources,Rockfire Resources,Oil and gas,GB00B42TN250
+N,BYOT,AIM,Materials,119076.4976,Byotrol,Byotrol plc Ords 0.25P,Chemicals,GB00B0999995
+N,SO4,AIM,Materials,118539.209,Salt Lake Potash,Salt Lake Potash Limited,Mineral mining,AU000000SO44
+N,IOF,AIM,Materials,116645.1824,Iofina,Iofina plc,Chemicals,GB00B2QL5C79
+N,ALBA,AIM,Materials,115466.3431,Alba Mineral,Alba Mineral Resources,Mining and oil,GB00B06KBB18
+N,CORA,AIM,Materials,110609.604,Cora Gold,Cora Gold,Gold mining,VGG2423W1077
+N,WRES,AIM,Materials,100987.5721,W Resources,W Resources,Mining,GB00BKQN5R41
+N,CNR,AIM,Materials,94923.67858,Condor Gold,Condor Gold plc,Gold mining,GB00B8225591
+N,AAU,AIM,Materials,90341.11371,Ariana Resources,Ariana Resources plc,Mining,GB00B085SD50
+N,GWMO,AIM,Materials,86916.22252,Great Western,Great Western Mining Corp. plc,Mining,IE00B1FR8863
+N,TYM,AIM,Materials,85200.1125,Tertiary Minerals,Tertiary Minerals plc,Mineral mining,GB0008854563
+N,SGZ,AIM,Materials,85028.86108,Scotgold Resources,Scotgold Resources Ld,Mining,AU000XINEAK5
+N,EEE,AIM,Materials,79540.29947,Empire Metals,Empire Metals Ltd,Mining,VGG3036T1012
+N,CMCL,AIM,Materials,72283.89029,Caledonia Mining,Caledonia Mining Corp plc Com Shs Npv (Di),Mining,JE00BF0XVB15
+N,ZIOC,AIM,Materials,70398.38271,Zanaga Iron,Zanaga Iron,Mining,VGG9888M1023
+N,PAT,AIM,Materials,68857.45454,Panthera Resources,Panthera Resources plc,Gold mining,GB00BD2B4L05
+N,SML,AIM,Materials,52053.83881,Strategic Minerals,Strategic Minerals plc,Mining,GB00B4W8PD74
+N,CGNR,AIM,Materials,50878.76361,Conroy Gold,Conroy Gold & Natural Resources plc,Gold mining,IE00BZ4BTZ13
+N,KAT,AIM,Materials,46466.42243,Katoro Gold,Katoro Gold plc,Gold mining,GB00BSNBL022
+N,ARK,AIM,Materials,42169.33145,Arkle Resources,Arkle Resources plc,Mining,IE00B2357X72
+N,EUZ,AIM,Materials,40373.64057,Europa Metals,Europa Metals Ltd,Mining,AU0000090060
+N,RRR,AIM,Materials,36103.91414,Red Rock Resources,Red Rock Resources PLC Ord 0.01P,Metal mining,GB00BYWKBV38
+N,RBN,AIM,Materials,32209.2855,Robinson,Robinson,Boxes,GB00B00K4418
+N,SRES,AIM,Materials,31880.17827,Sunrise Resources,Sunrise Resources plc,Mining,GB00B075Z681
+N,KRS,AIM,Materials,30278.13839,Keras Resources,Keras Resources plc,Mining,GB00B649J414
+N,HDD,AIM,Materials,27922.93539,Hardide,Hardide,Industrials,GB00BJJPX768
+N,GDP,AIM,Materials,26788.2976,Goldplat,Goldplat,Gold,GB00B0HCWM45
+N,AXS,AIM,Materials,597950.3425,Accsys Technologies,Accsys Technologies plc,Building materials,GB00BQQFX454
+N,SRC,AIM,Materials,536082.1499,SigmaRoc,Sigmaroc plc,Building materials,GB00BYX5K988
+N,BCN,AIM,Materials,1227193.278,Bacanora,Bacanora Lithium plc,Lithium,GB00BD20C246
+N,EMH,AIM,Materials,279445.1117,European Metals,European Metals,Lithium mining,VGG3191T1021
+N,WBI,AIM,Materials,251352.5269,Woodbois,Woodbois Limited,Hardwood,GG00B4WJSD17
+N,VRS,AIM,Materials,481024.0486,Versarien,Versarien plc,Graphene,GB00B8YZTJ80
+N,KOD,AIM,Materials,2030621.893,Kodal Minerals,Kodal Minerals plc,Lithium mining,GB00BH3X7Y70
+N,PHC,AIM,Materials,100342.129,Plant Health Care,Plant Health Care,Plant food,GB00B01JC540
+N,KDNC,AIM,Materials,410396.0593,Cadence Minerals,Cadence Minerals,Lithium mining,GB00BJP0B151
+N,SYM,AIM,Materials,120390.9986,Symphony Env,Symphony Environmental Ltd,Green plastics,GB0009589168
+N,HAYD,AIM,Materials,134406.0255,Haydale Graphene,Haydale Graphene,Nanomaterials,GB00BKWQ1135
+N,ZNWD,AIM,Materials,113676.0902,Zinnwald Lithium plc,Zinnwald Lithium plc,Lithium miner,GB00BFN4GY99
+N,AGM,AIM,Materials,65796.60757,Applied Graphene Materials,Applied Graphene Materials,Graphene,GB00BFSSB742
+N,THR,AIM,Materials,123114.9017,Thor Mining,Thor Mining plc,Tungsten mining,GB00BD0NBV71
+N,SIR,AIM,Real Estate,3794756.742,Secure Income,Secure Income REIT Ltd,Long lease REIT,GB00BLMQ9L68
+N,TPFG,AIM,Real Estate,103395.7964,Property Franchise Group,The Property Franchise Group plc,Real estate,GB00BH0WFH67
+N,FPO,AIM,Real Estate,70550.82209,First Property,First Property Group plc,Property fund manager,GB0004109889
+N,WHR,AIM,Real Estate,1738587.397,Warehouse,Warehouse Reit plc,REIT,GB00BD2NCM38
+N,WJG,AIM,Real Estate,3237500.83,Watkins Jones,Watkins Jones plc,Student housing,GB00BD6RF223
+N,PURP,AIM,Real Estate,700768.6987,Purplebricks,Purplebricks Group plc,Online estate agent,GB00BYV2MV74
+N,LOK,AIM,Real Estate,245469.7398,Lok'nStore,Lok'nStore Group plc,Storage,GB0007276115
+N,INL,AIM,Real Estate,414481.6847,Inland Homes,Inland Homes plc,Property developer,GB00B1TR0310
+N,WINK,AIM,Real Estate,9849.498882,Winkworth,Winkworth,Estate agents,GB00B4TT7L53
+N,KIBO,AIM,Utilities,135044.4924,Kibo Energy,Kibo Energy plc,Energy,IE00B97C0C31
+N,YU,AIM,Utilities,119797.2306,Yu Group,Yu Group,Utilities,GB00BYQDPD80
+N,FCRM,AIM,Utilities,82366.22087,Fulcrum Utility,Fulcrum Utility Services Ld,Utilities,KYG368851047
+N,EQT,AIM,Utilities,893083.5176,Eqtec,Eqtec plc,Waste-to-energy,IE00BH3XCL94

@@ -1,0 +1,78 @@
+Code,Name
+101010.0,Energy Equipment & Services
+101020.0,"Oil, Gas & Consumable Fuels"
+151010.0,Chemicals
+151020.0,Construction Materials
+151030.0,Containers & Packaging
+151040.0,Metals & Mining
+151050.0,Paper & Forest Products
+201010.0,Aerospace & Defense
+201020.0,Building Products
+201030.0,Construction & Engineering
+201040.0,Electrical Equipment
+201050.0,Industrial Conglomerates
+201060.0,Machinery
+201070.0,Trading Companies & Distributors
+202010.0,Commercial Services & Supplies
+202020.0,Professional Services
+203010.0,Air Freight & Logistics
+203020.0,Airlines
+203030.0,Marine
+203040.0,Road & Rail
+203050.0,Transportation Infrastructure
+251010.0,Auto Components
+251020.0,Automobiles
+252010.0,Household Durables
+252020.0,Leisure Products
+252030.0,"Textiles, Apparel & Luxury Goods"
+253010.0,"Hotels, Restaurants & Leisure"
+253020.0,Diversified Consumer Services
+255010.0,Distributors
+255020.0,Internet & Direct Marketing Retail
+255030.0,Multiline Retail
+255040.0,Specialty Retail
+301010.0,Food & Staples Retailing
+302010.0,Beverages
+302020.0,Food Products
+302030.0,Tobacco
+303010.0,Household Products
+303020.0,Personal Products
+351010.0,Health Care Equipment & Supplies
+351020.0,Health Care Providers & Services
+351030.0,Health Care Technology
+352010.0,Biotechnology
+352020.0,Pharmaceuticals
+352030.0,Life Sciences Tools & Services
+401010.0,Banks
+401020.0,Thrifts & Mortgage Finance
+402010.0,Diversified Financial Services
+402020.0,Consumer Finance
+402030.0,Capital Markets
+402040.0,"Mortgage Real Estate Investment Trusts (REITs)"
+403010.0,Insurance
+404010.0,Real Estate -- Discontinued effective 04/28/2006
+404020.0,"Real Estate Investment Trusts (REITs) - discontinued effective close of Aug 31, 2016"
+404030.0,"Real Estate Management & Development (discontinued effective close of August 31, 2016)"
+451020.0,IT Services
+451030.0,Software
+452010.0,Communications Equipment
+452020.0,"Technology Hardware, Storage & Peripherals"
+452030.0,"Electronic Equipment, Instruments & Components"
+452040.0,Office Electronics - Discontinued effective 02/28/2014
+452050.0,Semiconductor Equipment & Products -- Discontinued effective 04/30/2003.
+453010.0,Semiconductors & Semiconductor Equipment
+501010.0,Diversified Telecommunication Services
+501020.0,Wireless Telecommunication Services
+551010.0,Electric Utilities
+551020.0,Gas Utilities
+551030.0,Multi-Utilities
+551040.0,Water Utilities
+551050.0,Independent Power and Renewable Electricity Producers
+601010.0,"Equity Real Estate Investment Trusts (REITs)"
+601020.0,Real Estate Management & Development
+254010.0,"Media (discontinued effective close of September 30, 2018)"
+451010.0,"Internet Software & Services (discontinued effective close of September 30, 2018)"
+502010.0,Media
+502020.0,Entertainment
+502030.0,Interactive Media & Services
+

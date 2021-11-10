@@ -1,0 +1,194 @@
+Code,Subindutry_name
+10101010.0,Oil & Gas Drilling
+10101020.0,Oil & Gas Equipment & Services
+10102010.0,Integrated Oil & Gas
+10102020.0,Oil & Gas Exploration & Production
+10102030.0,Oil & Gas Refining & Marketing
+10102040.0,Oil & Gas Storage & Transportation
+10102050.0,Coal & Consumable Fuels
+15101010.0,Commodity Chemicals
+15101020.0,Diversified Chemicals
+15101030.0,Fertilizers & Agricultural Chemicals
+15101040.0,Industrial Gases
+15101050.0,Specialty Chemicals
+15102010.0,Construction Materials
+15103010.0,Metal & Glass Containers
+15103020.0,Paper Packaging
+15104010.0,Aluminum
+15104020.0,Diversified Metals & Mining
+15104025.0,Copper
+15104030.0,Gold
+15104040.0,Precious Metals & Minerals
+15104045.0,Silver
+15104050.0,Steel
+15105010.0,Forest Products
+15105020.0,Paper Products
+20101010.0,Aerospace & Defense
+20102010.0,Building Products
+20103010.0,Construction & Engineering
+20104010.0,Electrical Components & Equipment
+20104020.0,Heavy Electrical Equipment
+20105010.0,Industrial Conglomerates
+20106010.0,Construction Machinery & Heavy Trucks
+20106015.0,Agricultural & Farm Machinery
+20106020.0,Industrial Machinery
+20107010.0,Trading Companies & Distributors
+20201010.0,Commercial Printing
+20201020.0,"Data Processing Services (discontinued effective close of April 30, 2003)"
+20201030.0,"Diversified Commercial & Professional Services (discontinued effective close of August 31, 2008)"
+20201040.0,"Human Resource & Employment Services (discontinued effective close of August 31, 2008)"
+20201050.0,Environmental & Facilities Services
+20201060.0,Office Services & Supplies
+20201070.0,Diversified Support Services
+20201080.0,Security & Alarm Services
+20202010.0,Human Resource & Employment Services
+20202020.0,Research & Consulting Services
+20301010.0,Air Freight & Logistics
+20302010.0,Airlines
+20303010.0,Marine
+20304010.0,Railroads
+20304020.0,Trucking
+20305010.0,Airport Services
+20305020.0,Highways & Railtracks
+20305030.0,Marine Ports & Services
+25101010.0,Auto Parts & Equipment
+25101020.0,Tires & Rubber
+25102010.0,Automobile Manufacturers
+25102020.0,Motorcycle Manufacturers
+25201010.0,Consumer Electronics
+25201020.0,Home Furnishings
+25201030.0,Homebuilding
+25201040.0,Household Appliances
+25201050.0,Housewares & Specialties
+25202010.0,Leisure Products
+25202020.0,"Photographic Products (discontinued effective close of February 28, 2014)"
+25203010.0,"Apparel, Accessories & Luxury Goods"
+25203020.0,Footwear
+25203030.0,Textiles
+25301010.0,Casinos & Gaming
+25301020.0,"Hotels, Resorts & Cruise Lines"
+25301030.0,Leisure Facilities
+25301040.0,Restaurants
+25302010.0,Education Services
+25302020.0,Specialized Consumer Services
+25401010.0,"Advertising (discontinued effective close of September 30, 2018)"
+25401020.0,"Broadcasting (discontinued effective close of September 30, 2018)"
+25401025.0,Cable & Satellite
+25401030.0,Movies & Entertainment
+25401040.0,Publishing
+25501010.0,Distributors
+25502010.0,"Catalog Retail (discontinued effective close of August 31, 2016)"
+25502020.0,Internet & Direct Marketing Retail
+25503010.0,Department Stores
+25503020.0,General Merchandise Stores
+25504010.0,Apparel Retail
+25504020.0,Computer & Electronics Retail
+25504030.0,Home Improvement Retail
+25504040.0,Specialty Stores
+25504050.0,Automotive Retail
+25504060.0,Homefurnishing Retail
+30101010.0,Drug Retail
+30101020.0,Food Distributors
+30101030.0,Food Retail
+30101040.0,Hypermarkets & Super Centers
+30201010.0,Brewers
+30201020.0,Distillers & Vintners
+30201030.0,Soft Drinks
+30202010.0,Agricultural Products
+30202020.0,"Meat, Poultry & Fish (discontinued effective close of March 28 2002)"
+30202030.0,Packaged Foods & Meats
+30203010.0,Tobacco
+30301010.0,Household Products
+30302010.0,Personal Products
+35101010.0,Health Care Equipment
+35101020.0,Health Care Supplies
+35102010.0,Health Care Distributors
+35102015.0,Health Care Services
+35102020.0,Health Care Facilities
+35102030.0,Managed Health Care
+35103010.0,Health Care Technology
+35201010.0,Biotechnology
+35202010.0,Pharmaceuticals
+35203010.0,Life Sciences Tools & Services
+40101010.0,Diversified Banks
+40101015.0,Regional Banks
+40102010.0,Thrifts & Mortgage Finance
+40201010.0,"Consumer Finance (discontinued effective close of April 30, 2003)"
+40201020.0,Other Diversified Financial Services
+40201030.0,Multi-Sector Holdings
+40201040.0,Specialized Finance
+40202010.0,Consumer Finance
+40203010.0,Asset Management & Custody Banks
+40203020.0,Investment Banking & Brokerage
+40203030.0,Diversified Capital Markets
+40203040.0,Financial Exchanges & Data
+40204010.0,Mortgage REITs
+40301010.0,Insurance Brokers
+40301020.0,Life & Health Insurance
+40301030.0,Multi-line Insurance
+40301040.0,Property & Casualty Insurance
+40301050.0,Reinsurance
+40401010.0,"Real Estate Investment Trusts (discontinued effective close of April 28, 2006)"
+40401020.0,"Real Estate Management & Development (discontinued effective close of April 28, 2006)"
+40402010.0,"Diversified REITs (discontinued effective close of August 31, 2016)"
+40402020.0,"Industrial REITs (discontinued effective close of August 31, 2016)"
+40402030.0,"Mortgage REITs (discontinued effective close of August 31, 2016)"
+40402035.0,"Hotel & Resort REITs (discontinued effective close of August 31, 2016)"
+40402040.0,"Office REITs (discontinued effective close of August 31, 2016)"
+40402045.0,"Health Care REITs (discontinued effective close of August 31, 2016)"
+40402050.0,"Residential REITs (discontinued effective close of August 31, 2016)"
+40402060.0,"Retail REITs (discontinued effective close of August 31, 2016)"
+40402070.0,"Specialized REITs (discontinued effective close of August 31, 2016)"
+40403010.0,"Diversified Real Estate Activities (discontinued effective close of August 31, 2016)"
+40403020.0,"Real Estate Operating Companies (discontinued effective close of August 31, 2016)"
+40403030.0,"Real Estate Development (discontinued effective close of August 31, 2016)"
+40403040.0,"Real Estate Services (discontinued effective close of August 31, 2016)"
+45101010.0,"Internet Software & Services (discontinued effective close of September 30, 2018)"
+45102010.0,IT Consulting & Other Services
+45102020.0,Data Processing & Outsourced Services
+45102030.0,Internet Services & Infrastructure
+45103010.0,Application Software
+45103020.0,Systems Software
+45103030.0,"Home Entertainment Software (discontinued effective close of September 30, 2018)"
+45201010.0,"Networking Equipment (discontinued effective close of April 30, 2003)"
+45201020.0,"Telecommunications Equipment (discontinued effective close of April 30, 2003)"
+45202010.0,"Computer Hardware (discontinued effective close of February 28, 2014)"
+45202020.0,"Computer Storage & Peripherals (discontinued effective close of February 28, 2014)"
+45202030.0,"Technology Hardware, Storage & Peripherals"
+45203010.0,Electronic Equipment & Instruments
+45203015.0,Electronic Components
+45203020.0,Electronic Manufacturing Services
+45203030.0,Technology Distributors
+45204010.0,"Office Electronics (discontinued effective close of February 28, 2014)"
+45205010.0,"Semiconductor Equipment (discontinued effective close of April 30, 2003)"
+45205020.0,"Semiconductors (discontinued effective close of April 30, 2003)"
+45301010.0,Semiconductor Equipment
+45301020.0,Semiconductors
+50101010.0,Alternative Carriers
+50101020.0,Integrated Telecommunication Services
+50102010.0,Wireless Telecommunication Services
+50201010.0,Advertising
+50201020.0,Broadcasting
+50201030.0,Cable & Satellite
+50201040.0,Publishing
+50202010.0,Movies & Entertainment
+50202020.0,Interactive Home Entertainment
+50203010.0,Interactive Media & Services
+55101010.0,Electric Utilities
+55102010.0,Gas Utilities
+55103010.0,Multi-Utilities
+55104010.0,Water Utilities
+55105010.0,Independent Power Producers & Energy Traders
+55105020.0,Renewable Electricity
+60101010.0,Diversified REITs
+60101020.0,Industrial REITs
+60101030.0,Hotel & Resort REITs
+60101040.0,Office REITs
+60101050.0,Health Care REITs
+60101060.0,Residential REITs
+60101070.0,Retail REITs
+60101080.0,Specialized REITs
+60102010.0,Diversified Real Estate Activities
+60102020.0,Real Estate Operating Companies
+60102030.0,Real Estate Development
+60102040.0,Real Estate Services
