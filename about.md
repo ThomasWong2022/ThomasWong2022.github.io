@@ -7,7 +7,7 @@ permalink: /about/
 ### About me
 
 Mathematics PhD student with experiences in quantitative finance, machine learning and data engineering. 
-I am an active participant in the quantitative finance competition \href{https://numer.ai/}{Numerai} and other data science competitions on Kaggle.
+I am an active participant in the quantitative finance competition [Numerai](https://numer.ai/) and other data science competitions on Kaggle.
 I also write blog posts about machine learning and finance. 
 
 
