@@ -13,9 +13,9 @@ I also write blog posts about machine learning and finance.
 
 ### Research Interests      
 
-Incremental learning for tabular datasets and time-series
-Dimensionality reduction methods for sparse datasets 
-Robust reinforcement learning for non-stationary problems
+- Incremental learning for tabular datasets and time-series
+- Dimensionality reduction methods for sparse datasets 
+- Robust reinforcement learning for non-stationary problems
 
 
 ### Contact me
