@@ -1,7 +1,8 @@
-# Project Summary 
+# THOR: Temporal High-dimensional Ordinal Regression 
 
-In my research I have worked on different projects on temporal tabular datasets and time series.  
+THOR is a new autoML tool for temporal tabular datasets and time series. It handles high dimensional datasets with distribution shifts better than other tools. Inspired by the Numerai competiton, THOR has evolved from a specific tool for Numerai competition into a general ML pipeline which has many applications in finance and healthcare. 
 
+In the following I list some features in THOR. It is not an exhausive list and there are more proprietary features that is not listed here. 
 
 ## GBDT2.0
 
