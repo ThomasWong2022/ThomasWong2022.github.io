@@ -1,4 +1,4 @@
-# THOR: Temporal High-dimensional Ordinal Regression 
+# THOR: Time-Varying High-dimensional Ordinal Regression 
 
 THOR is a new autoML tool for temporal tabular datasets and time series. It handles high dimensional datasets with distribution shifts better than other tools. Inspired by the Numerai competiton, THOR has evolved from a specific tool for Numerai competition into a general ML pipeline which has many applications in finance and healthcare. 
 
@@ -26,4 +26,6 @@ the method can maximise the portfolio return (or minimise the given loss functio
 A new method which combines classical and machine learning techniques for feature engineering and sequence modelling. 
 A hybrid approach which demonstrate robust performances for high dimensional time-series. 
 
+## TrendFollower2.0 
 
+An enhanced implmentation of trend following strategies with improved robustness and lower risks than the standard implmentation of moving averages. 
