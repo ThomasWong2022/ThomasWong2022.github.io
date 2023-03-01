@@ -33,7 +33,7 @@ An enhanced implmentation of trend following strategies with improved robustness
 
 # Mjolnir 
 
-Mjolnir is a closely connected autoML tool which transforms various 
+Mjolnir is a closely connected autoML tool which transforms various ML problems into suitable formats so that can be used by THOR. 
 
   - Convert Classification problems into Regression problems 
   - Convert non-numerical features into ordinal ones
