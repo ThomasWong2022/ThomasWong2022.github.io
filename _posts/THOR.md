@@ -35,8 +35,8 @@ An enhanced implmentation of trend following strategies with improved robustness
 
 Mjolnir is a closely connected autoML tool which transforms various 
 
-Convert Classification problems into Regression problems 
-Convert non-numerical features into ordinal ones
-Convert low dimensional problems into high dimensional ones
-Convert Static Datasets into Time Varying ones 
+  - Convert Classification problems into Regression problems 
+  - Convert non-numerical features into ordinal ones
+  - Convert low dimensional problems into high dimensional ones
+  - Convert Static Datasets into Time Varying ones 
 
