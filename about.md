@@ -21,7 +21,7 @@ Examples include:
 - Dimensionality reduction methods for sparse datasets (Ex: Matrix Factorisations)
 - Feature Engineering methods for time-series (Ex: Signature transforms)
 - High Dimensional Regression problems (when p >> N)
-- Reinforcement learning for non-stationary problems (Ex: multi-armed bandit)
+- Reinforcement learning for non-stationary problems (Ex: multi-armed bandits)
 - Feature clustering with spatial-temporal models 
 - AutoML pipelines in Gradient Boosting Decision Trees (GBDT) and deep learning
         
