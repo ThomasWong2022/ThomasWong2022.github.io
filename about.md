@@ -23,7 +23,7 @@ Examples include:
 - High Dimensional Regression problems (when p >> N)
 - Reinforcement learning for non-stationary problems (Ex: multi-armed bandits)
 - Feature clustering with spatial-temporal models 
-- AutoML pipelines in Gradient Boosting Decision Trees (GBDT) and deep learning
+- AutoML pipelines for temporal tabular and multi-variate time series datasets (Ex. [THOR](https://github.com/ThomasWong2022/thor-public))
         
 
 ### Contact me
