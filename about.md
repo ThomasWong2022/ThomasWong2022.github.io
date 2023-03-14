@@ -13,7 +13,7 @@ I also write blog posts about machine learning and finance.
 
 ### Research Interests 
 
-I study machine learning methods for high dimensional datasets, in the context of transfer(online) learning between datasets with distributional shifts. The main application areas include genomics and finance. As part of my research, I also build machine learning pipelines with robustness and transferability in consideration. 
+I study machine learning methods for high dimensional datasets, in the context of incremental/transfer learning between datasets with distributional shifts. The main application areas include genomics and finance. As part of my research, I also build machine learning pipelines with robustness and transferability in consideration. 
 
 Examples include:   
 
