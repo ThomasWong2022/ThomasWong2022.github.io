@@ -6,14 +6,14 @@ permalink: /about/
 
 ### About me
 
-Mathematics graduate with experiences in quantitative finance, machine learning and data engineering. 
-I am an active participant in the quantitative finance competition [Numerai](https://numer.ai/) and other data science competitions on Kaggle.
+Quant Researcher with experience in quantitative finance, machine learning and data engineering. 
+I actively participate in the quantitative finance competition [Numerai](https://numer.ai/) and other data science competitions on Kaggle.
 I also write blog posts about machine learning and finance. 
 
 
 ### Research Interests 
 
-I study machine learning methods for high dimensional datasets, in the context of incremental/transfer learning between datasets with distributional shifts.
+I study machine learning methods for high-dimensional datasets, in the context of incremental/transfer learning between datasets with distributional shifts.
 
 Examples include:   
 
