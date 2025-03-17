@@ -50,4 +50,15 @@ Work to do: Feature Expansion for time series in polars/Rust
 
 Work to do: integrate the above with polars so that simple MLP can be trained as polars functions/expressions 
 
+### Reinforcement Learning 
+  - [Ray-RLlib](https://docs.ray.io/en/latest/rllib/index.html)
+  - [stable-baselines](https://github.com/DLR-RM/stable-baselines3)
+  - [gym](https://github.com/openai/gym)
 
+### Hyperparameter optimisation 
+  - Single Machine: [optuna](https://github.com/optuna/optuna)
+  - Multiple Machines: [Ray](https://docs.ray.io/en/latest/tune/index.html)
+
+### Distributed Programming 
+  - [joblib](https://github.com/joblib/joblib)
+  - [dask](https://github.com/dask/dask)
