@@ -19,10 +19,10 @@ I study machine learning methods for high-dimensional datasets in the context of
 Examples include:   
 
 - Incremental learning for (temporal) tabular datasets
-- Feature Engineering methods for time-series (Ex: Signature transforms)
-- High Dimensional Regression problems (when p >> N)
-- Reinforcement learning for non-stationary problems (Ex: multi-armed bandits)
+- Feature engineering methods for time-series
+- High-dimensional regression problems (when p >> N)
+- Reinforcement learning for non-stationary problems
 - Feature clustering with spatial-temporal models 
-- AutoML pipelines for temporal tabular and multi-variate time series datasets (Ex. [THOR](https://github.com/ThomasWong2022/thor-public))
+- AutoML pipelines for temporal tabular and multivariate time series datasets (Ex. [THOR](https://github.com/ThomasWong2022/thor-public))
         
 
