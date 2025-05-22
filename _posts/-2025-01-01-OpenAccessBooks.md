@@ -25,3 +25,9 @@ title: Open Access Textbooks
 ### Statistics 
   - [Advanced Data Analysis from an Elementary Point of View, Cosma Shalizi](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)
   - [Causal Inference: What If, Hernán MA, Robins JM](https://miguelhernan.org/whatifbook)
+
+
+### Olympiad Questions 
+  - [International Mathematics Olympiad](https://www.imo-official.org/problems.aspx)
+  - [Hong Kong Olympiad in Informatics](https://hkoi.org/en/past-problems/)
+
