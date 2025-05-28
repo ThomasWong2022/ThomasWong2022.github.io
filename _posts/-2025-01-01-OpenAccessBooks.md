@@ -11,7 +11,7 @@ title: Open Access Textbooks
   - [Algorithms for Optimization, Mykel Kochenderfer](https://algorithmsbook.com/optimization/files/optimization.pdf)
   - [Algorithms for Decision Making, Mykel Kochenderfer](https://algorithmsbook.com/files/dm.pdf)
   - [Algorithms for Validation, Mykel Kochenderfer](https://algorithmsbook.com/validation/files/val.pdf)
-  - [Foundations of Machine Learning, Mehryar Mohri](https://cs.nyu.edu/~mohri/mlbook/)\
+  - [Foundations of Machine Learning, Mehryar Mohri](https://cs.nyu.edu/~mohri/mlbook/)
   - [Reinforcement Learning: An Introduction, Richard Sutton](http://incompleteideas.net/book/RLbook2020.pdf)
 
 ### Bayesian Statistics
