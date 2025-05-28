@@ -30,4 +30,5 @@ title: Open Access Textbooks
 ### Olympiad Questions 
   - [International Mathematics Olympiad](https://www.imo-official.org/problems.aspx)
   - [Hong Kong Olympiad in Informatics](https://hkoi.org/en/past-problems/)
+  - [Putnam](https://kskedlaya.org/putnam-archive/)
 
