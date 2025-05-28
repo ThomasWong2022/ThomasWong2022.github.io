@@ -31,4 +31,5 @@ title: Open Access Textbooks
   - [International Mathematics Olympiad](https://www.imo-official.org/problems.aspx)
   - [Hong Kong Olympiad in Informatics](https://hkoi.org/en/past-problems/)
   - [Putnam](https://kskedlaya.org/putnam-archive/)
-
+  - [HK IMO Prelim](https://www.hkage.edu.hk/en-us/article/imoprelim2024)
+  - 
