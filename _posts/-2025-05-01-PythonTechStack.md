@@ -41,6 +41,7 @@ Work to do: Feature Expansion for time series in polars/Rust
   - [XGBoost](https://github.com/dmlc/xgboost)
   - [LightGBM](https://github.com/microsoft/LightGBM)
   - [CatBoost](https://github.com/catboost/catboost)
+  - [NGBoost](https://github.com/stanfordmlgroup/ngboost)
   - Unpublished work from my PhD Research on multi-level GBDT with regime regularisation. 
 
 ### Deep Learning 
@@ -48,7 +49,7 @@ Work to do: Feature Expansion for time series in polars/Rust
   - [PyTorch-lightning](https://github.com/Lightning-AI/pytorch-lightning)
   - [Jax](https://github.com/jax-ml/jax)
 
-Work to do: integrate the above with polars so that simple MLP can be trained as polars functions/expressions 
+Work to do: integrate the above with polars so that a simple MLP can be trained as polars functions/expressions 
 
 ### Reinforcement Learning 
   - [Ray-RLlib](https://docs.ray.io/en/latest/rllib/index.html)
@@ -62,3 +63,11 @@ Work to do: integrate the above with polars so that simple MLP can be trained as
 ### Distributed Programming 
   - [joblib](https://github.com/joblib/joblib)
   - [dask](https://github.com/dask/dask)
+
+### Natural Language Processing 
+  - [Transformer](https://github.com/huggingface/transformers)
+  - [Spacy](https://github.com/explosion/spaCy)
+
+### Genetic Algorithms 
+
+Feature expansion of Time Series 
