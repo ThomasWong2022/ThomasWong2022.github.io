@@ -10,7 +10,7 @@ title: Python Tech Stack
   - Big Data: [spark](https://github.com/apache/spark)
   - Data Stream: [kafka](https://kafka.apache.org/)
 
-### Data visualization
+### Data visualisation
   - [plotly](https://github.com/plotly/plotly.py)
   - [dash](https://github.com/plotly/dash)
   - [streamlit](https://github.com/streamlit/streamlit)
@@ -33,6 +33,10 @@ Work to do: Efficient batch model fitting for out-of-memory data of common stati
 ### Time Series 
   - [tsfresh](https://github.com/blue-yonder/tsfresh)
   - [darts](https://github.com/unit8co/darts)
+  - [Nixtla-hierarchical](https://github.com/Nixtla/hierarchicalforecast)
+  - [Nixtla-neural](https://github.com/Nixtla/neuralforecast)
+  - [Nixtla-ml](https://github.com/Nixtla/mlforecast)
+  - [Nixtla-stats](https://github.com/Nixtla/statsforecast)
 
 Work to do: Feature Expansion for time series in polars/Rust 
 
