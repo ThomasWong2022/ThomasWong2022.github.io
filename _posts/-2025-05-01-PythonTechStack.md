@@ -82,4 +82,4 @@ Work to do: integrate the above with polars so that a simple MLP can be trained 
 
 ### Genetic Algorithms 
 
-Feature expansion of Time Series 
+Work to do: Combine features by evolutionary search using complex criteria (consistency of performance) that cannot be done by gradient learning easily. 
