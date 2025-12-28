@@ -22,9 +22,15 @@ title: Python Tech Stack
 ### Statistical Models 
   - [scikit-learn](https://github.com/scikit-learn/scikit-learn)
   - [statsmodels](https://github.com/statsmodels/statsmodels)
+  - [cuml](https://github.com/rapidsai/cuml)
+
+### Polars
   - [polars-ds](https://github.com/abstractqqq/polars_ds_extension)
   - [polars-ols](https://github.com/azmyrajab/polars_ols)
-  - [cuml](https://github.com/rapidsai/cuml)
+  - [pytime-tk](https://github.com/business-science/pytimetk)
+  - [functime](https://github.com/functime-org/functime)
+  - [Nixtla-stats](https://github.com/Nixtla/statsforecast)
+  - [polars-ml](https://github.com/barak1412/polars_ml)
 
 Work to do: Reimplement scikit-learn and stats models in polars/Rust 
 Work to do: Efficient batch model fitting for out-of-memory data of common statistical models, such as ridge regression. 
@@ -53,7 +59,6 @@ Work to do: Feature Expansion for time series in polars/Rust
   - Combine multiple treelite models with the same structure, trained once on the whole data but updated with different values over data from different regimes. Report the average and variance of node values across regimes, and prune and combine nodes for inconsistent values. 
 
 Work in Progress: Integrate the above models with polars so that GBDT models can be trained and saved in treelite format, with performance reporting and feature importance done in polars. 
-
 
 
 ### Deep Learning 
